@@ -1,0 +1,694 @@
+id: 2eccb75a68284dd2826dc119bc2ef452
+annotation_type: index
+revision: '00001'
+annotations:
+  79987d8a3c7444d494acb33bab17a173:
+    work_id: W4963AEE6
+    span:
+      vol: CIII_Verses 1-10
+      start: 0
+      end: 2048
+  b094395da9f146bdbdc3f98a073230fe:
+    work_id: W0D445203
+    span:
+      vol: CIII_Verses 11-18
+      start: 0
+      end: 1918
+  8024e8e62d7f4be5b921bcc44ceb339e:
+    work_id: W19C41BE1
+    span:
+      vol: CII_Verses 1-10
+      start: 0
+      end: 1622
+  336360c3818c441a89eb9663b38faee0:
+    work_id: WF261320C
+    span:
+      vol: CII_Verses 11-20
+      start: 0
+      end: 1615
+  8b4960cab44246dd87ee6e6df6adc2a5:
+    work_id: W5BBE54CF
+    span:
+      vol: CIV_Verses 1-10
+      start: 0
+      end: 1701
+  abb62d54bc3541e6b88a00a4b041b8ba:
+    work_id: W9E6F8FFB
+    span:
+      vol: CIV_Verses 11-20
+      start: 0
+      end: 1711
+  dfa7f6f93d95433bb3f7d10bac0b957a:
+    work_id: WFC972AE4
+    span:
+      vol: CIV_Verses 21-30
+      start: 0
+      end: 1441
+  a4e4c153f976460180cead75629f12cc:
+    work_id: WD20E5BBD
+    span:
+      vol: CIV_Verses 31-38
+      start: 0
+      end: 1208
+  c9e7a7d4c5064fe784ac1d32fceed812:
+    work_id: WAE0BEA38
+    span:
+      vol: CIX_Verses 1-10
+      start: 0
+      end: 1563
+  a37335f8bff941a5befdf3c2ef242149:
+    work_id: W7FF9A4FB
+    span:
+      vol: CIX_Verses 11-19
+      start: 0
+      end: 1261
+  a4890605fc95424fbb7286502a008d6e:
+    work_id: W8934162D
+    span:
+      vol: CI_Verses 1-10
+      start: 0
+      end: 1461
+  f264083712064091bd4ad5ddfcfb8093:
+    work_id: W4FFFA589
+    span:
+      vol: CI_Verses 11-20
+      start: 0
+      end: 1422
+  8976d6bba3ab43648704d1baf11e70c1:
+    work_id: WDABBC9F8
+    span:
+      vol: CI_Verses 21-30
+      start: 0
+      end: 1622
+  bc239e9eb49a400e854db9d4d2bc671c:
+    work_id: WA24D70F7
+    span:
+      vol: CI_Verses 31-40
+      start: 0
+      end: 1285
+  c67b38d1d8bd40f4b8709dc4e504a9a8:
+    work_id: W694C85C8
+    span:
+      vol: CI_Verses 41-42
+      start: 0
+      end: 446
+  fad3ba929fd148ea8abde5da6a6aa293:
+    work_id: W4B306D43
+    span:
+      vol: CVIII_Verses 1-10
+      start: 0
+      end: 1762
+  28249c063f0a47ffb4e5502fcdf4d3df:
+    work_id: W4A467974
+    span:
+      vol: CVIII_Verses 11-15
+      start: 0
+      end: 830
+  4cdf566359c646cd9b1ddc66bc7f3898:
+    work_id: W1134A566
+    span:
+      vol: CVII_Verses 1-10
+      start: 0
+      end: 1537
+  d978d55cd2a84f829abf7e7583fe2cf9:
+    work_id: WA51A6A76
+    span:
+      vol: CVII_Verses 11-12
+      start: 0
+      end: 454
+  e371634cc333482b8c09f2a127009ffb:
+    work_id: WB9F0B384
+    span:
+      vol: CVI_Verses 1-10
+      start: 0
+      end: 1744
+  891f730673e5476f99f06d63c419b747:
+    work_id: W7EE1454A
+    span:
+      vol: CVI_Verses 11-20
+      start: 0
+      end: 1532
+  a4ae7bd7d24646b189dca49a25fbcea3:
+    work_id: W24E44E56
+    span:
+      vol: CV_Verses 1-10
+      start: 0
+      end: 1836
+  7c8a1998e26948ea86a170bfbb1ebd1a:
+    work_id: W97411502
+    span:
+      vol: CV_Verses 11-20
+      start: 0
+      end: 1485
+  565da9a40ec14c9eaa8a7c05f576e52f:
+    work_id: W7422A6A7
+    span:
+      vol: CV_Verses 21-27
+      start: 0
+      end: 990
+  389e02544fdf4d35bfe4c4a5d2054281:
+    work_id: W38FDECE7
+    span:
+      vol: CXIII_Verses 1-10
+      start: 0
+      end: 1664
+  273d844c474042bda760d72102ae75b0:
+    work_id: WF52E5162
+    span:
+      vol: CXIII_Verses 11-18
+      start: 0
+      end: 1267
+  fbae98c32da44acaba83695d71a1c4b5:
+    work_id: W87397543
+    span:
+      vol: CXII_Verses 1-10
+      start: 0
+      end: 1511
+  5b9c5336597043df9c1fa0c1594ac870:
+    work_id: WC990D12F
+    span:
+      vol: CXII_Verses 11-20
+      start: 0
+      end: 2487
+  eca16b35c3734907800a327cd24c2f5f:
+    work_id: WF93A3D34
+    span:
+      vol: CXIV_Verses 1-10
+      start: 0
+      end: 1594
+  8d98dc4a58844efbb2e2bfd1315ab096:
+    work_id: W99BBB9EA
+    span:
+      vol: CXIV_Verses 11-16
+      start: 0
+      end: 1052
+  c7bcf1d70bd44a24b87982b20d2fcbe9:
+    work_id: W3E8EC481
+    span:
+      vol: CXIX_Verses 1-10
+      start: 0
+      end: 2574
+  48f5e99b222d4ae793533fbff4dd0e3c:
+    work_id: W8E881801
+    span:
+      vol: CXIX_Verses 11-14
+      start: 0
+      end: 164
+  2db2a3cc64604bc8b98a95a05a44c182:
+    work_id: W2BFBBC5B
+    span:
+      vol: CXI_Verses 1-10
+      start: 0
+      end: 1488
+  112c5cf4b321402d877397829016cd29:
+    work_id: WE50F6A63
+    span:
+      vol: CXI_Verses 11-15
+      start: 0
+      end: 1042
+  4a6e9cf378914402b691a37a425fb8f4:
+    work_id: W447EA369
+    span:
+      vol: CXVIII_Verses 1-10
+      start: 0
+      end: 1441
+  95f9db94cb704bebb0de09924cea0871:
+    work_id: W2F739383
+    span:
+      vol: CXVIII_Verses 11-20
+      start: 0
+      end: 1624
+  2bdb258792ee45fd852e0d2b09fe1696:
+    work_id: W2B854DED
+    span:
+      vol: CXVIII_Verses 21-21F
+      start: 0
+      end: 1553
+  9690b911f047475980a2acd754665f2e:
+    work_id: W3B93A696
+    span:
+      vol: CXVII_Verses 1-10
+      start: 0
+      end: 1974
+  2ec50e78817e4623b41cffaff5576796:
+    work_id: WAF6384FB
+    span:
+      vol: CXVII_Verses 11-12
+      start: 0
+      end: 198
+  fd60fb65f5bd49f0ad7301e0e206be25:
+    work_id: W2210482F
+    span:
+      vol: CXVI_Verses 1-10
+      start: 0
+      end: 1530
+  f9369bd7029842e1be8c3a78458eab88:
+    work_id: W9DEA664E
+    span:
+      vol: CXVI_Verses 11-20
+      start: 0
+      end: 1482
+  a3f02e6324a648cf8f0cc86f625bb5f2:
+    work_id: WDC23E328
+    span:
+      vol: CXVI_Verses 21-24
+      start: 0
+      end: 797
+  69fab7d9d9804482a13c2c7a8c849568:
+    work_id: W3484D123
+    span:
+      vol: CXV_Verses 1-10
+      start: 0
+      end: 1970
+  6727a7ce3a454e0d946ff9e691441e77:
+    work_id: W8CD28062
+    span:
+      vol: CXV_Verses 11-20
+      start: 0
+      end: 1255
+  067f8eefc0574d209772c2eddd7f6dda:
+    work_id: W84C581B1
+    span:
+      vol: CXV_Verses 21-26
+      start: 0
+      end: 631
+  e9396920c3f3457b8b1db54ab5bf47db:
+    work_id: W55AC4B24
+    span:
+      vol: CXXIII_Verses 1-10
+      start: 0
+      end: 1443
+  a665695a818544c3b5f6b046c3a45d7d:
+    work_id: W76CE44A6
+    span:
+      vol: CXXIII_Verses 11-20
+      start: 0
+      end: 799
+  0d0c12e77dfe4eb69b7090a127dff206:
+    work_id: W28440B69
+    span:
+      vol: CXXIII_Verses 21-26
+      start: 0
+      end: 899
+  f5fed4210d734d118964bdc55905f385:
+    work_id: W350F7BB3
+    span:
+      vol: CXXII_Verses 1-10
+      start: 0
+      end: 1415
+  4128fd8ca7df49a18ec86ac586334aa8:
+    work_id: W7F3A37B8
+    span:
+      vol: CXXII_Verses 11-19
+      start: 0
+      end: 1662
+  6473e3ab3aeb41ce897cb7d367b039ac:
+    work_id: W16400609
+    span:
+      vol: CXXIV_Verses 1-10
+      start: 0
+      end: 1327
+  3da01c0729974086925f308ae59e0054:
+    work_id: W9D06036C
+    span:
+      vol: CXXIV_Verses 11-20
+      start: 0
+      end: 2685
+  1eefc430a405438fa80dcceaabc6a096:
+    work_id: W4657A5A7
+    span:
+      vol: CXXIV_Verses 21-30
+      start: 0
+      end: 1399
+  d347e62c775045ad8bf5da8e47288409:
+    work_id: W042AAB3A
+    span:
+      vol: CXXIX_Verses 1-10
+      start: 0
+      end: 1803
+  75a34e3b01a44a44b0c472031a5418fe:
+    work_id: WDD75FF56
+    span:
+      vol: CXXIX_Verses 11-20
+      start: 0
+      end: 1869
+  91ce3d319dac4bdbbd617a2e500b7400:
+    work_id: W42D61886
+    span:
+      vol: CXXIX_Verses 21-30
+      start: 0
+      end: 1902
+  465a487fd1a748fd8fb218e5f75236f3:
+    work_id: W9D455F9B
+    span:
+      vol: CXXIX_Verses 31-40
+      start: 0
+      end: 1983
+  bbb684dbb134445d950af50a4e41c55c:
+    work_id: W9ED9E94B
+    span:
+      vol: CXXIX_Verses 41-50
+      start: 0
+      end: 1854
+  8bb0c8ce9f6a4e00b2e6042fa2cbf5ea:
+    work_id: WBB01EEA8
+    span:
+      vol: CXXIX_Verses 51-57
+      start: 0
+      end: 1268
+  e9049285df8d4a478240bfd193ab843d:
+    work_id: W22F0B248
+    span:
+      vol: CXXI_Verses 1-10
+      start: 0
+      end: 1643
+  4fa7d3dacd5b48a1a3a6fe837b7ceff0:
+    work_id: W806EC7D3
+    span:
+      vol: CXXI_Verses 11-18
+      start: 0
+      end: 1778
+  05bca10c5ef44c9b80c2147d66428110:
+    work_id: WAB667267
+    span:
+      vol: CXXVIII_Verses 1-10
+      start: 0
+      end: 1678
+  68936b4ab61340aba22f0d6cc050077f:
+    work_id: W8A98F9E8
+    span:
+      vol: CXXVIII_Verses 11-20
+      start: 0
+      end: 1568
+  f5d928537c914296b2ed48e0fa12109d:
+    work_id: WAF98FD8A
+    span:
+      vol: CXXVIII_Verses 21-30
+      start: 0
+      end: 1610
+  092e1bf978e249958bba2aea213f6b35:
+    work_id: WD42DA42C
+    span:
+      vol: CXXVIII_Verses 31-40
+      start: 0
+      end: 2367
+  2b14bb459b2346bb96e906bcd902d1de:
+    work_id: WD552411D
+    span:
+      vol: CXXVII_Verse 41
+      start: 0
+      end: 252
+  12318a08ee694264b04dbdde0f4824eb:
+    work_id: W98969649
+    span:
+      vol: CXXVII_Verses 1-10
+      start: 0
+      end: 1891
+  592879be5d0146ed89657d979cc06415:
+    work_id: WCC00D45B
+    span:
+      vol: CXXVII_Verses 11-20
+      start: 0
+      end: 2095
+  cf27741145e5444aa2f429feb4982284:
+    work_id: W88F0D2F3
+    span:
+      vol: CXXVII_Verses 21-30
+      start: 0
+      end: 1029
+  07b9126a25d94129b8eb7c203537f221:
+    work_id: WB79B93E4
+    span:
+      vol: CXXVII_Verses 31-40
+      start: 0
+      end: 1592
+  5a1d8a633fd1411a9b38bd5806ebbe63:
+    work_id: W70E46857
+    span:
+      vol: CXXVI_Verse 31
+      start: 0
+      end: 278
+  a795b202027648a3a910ed83369954ba:
+    work_id: W6C781DB6
+    span:
+      vol: CXXVI_Verses 1-10
+      start: 0
+      end: 1634
+  8d28ed6b1c3e45d0a5e326c968e72d31:
+    work_id: W459103AA
+    span:
+      vol: CXXVI_Verses 11-20
+      start: 0
+      end: 3317
+  3f2048ff1caf480ebc899eb4c75fd6f6:
+    work_id: WFF707E98
+    span:
+      vol: CXXVI_Verses 21-30
+      start: 0
+      end: 2420
+  95633bcf5d4e423b84c1e60ec2efd220:
+    work_id: W4E5EABAD
+    span:
+      vol: CXXV_Verses 1-10
+      start: 0
+      end: 1946
+  34013c576aed4aa083594be2aeeaf6ff:
+    work_id: WF6613F35
+    span:
+      vol: CXXV_Verses 11-20
+      start: 0
+      end: 1362
+  f580b631f0e041ee8940a026e27eef9c:
+    work_id: WAB5BB1EA
+    span:
+      vol: CXXV_Verses 21-25
+      start: 0
+      end: 978
+  05009cddaa2c4fe899fff2d0c7d9429b:
+    work_id: W99297989
+    span:
+      vol: CXXXIII_Verses 1-10
+      start: 0
+      end: 2224
+  a87e4153f13c4dbcbf82101a30247052:
+    work_id: WEC8440F5
+    span:
+      vol: CXXXIII_Verses 11-20
+      start: 0
+      end: 1820
+  81520ea9910047d8a8c2303513c35298:
+    work_id: W35A57F40
+    span:
+      vol: CXXXIII_Verses 21-30
+      start: 0
+      end: 2086
+  08dbef772bf244b8a92cb31536e467cf:
+    work_id: W549114AF
+    span:
+      vol: CXXXIII_Verses 31-40
+      start: 0
+      end: 1864
+  35b5c55739dd42fbb2523d9fc20176a8:
+    work_id: W71ECE7C7
+    span:
+      vol: CXXXIII_Verses 41-50
+      start: 0
+      end: 2296
+  909bb7ec7b7f4120b8bcaf74cb8807d9:
+    work_id: WEA3443F3
+    span:
+      vol: CXXXIII_Verses 51-60
+      start: 0
+      end: 1836
+  c8f2c8d05b4e476ca04fadc5d541afd1:
+    work_id: W821491EC
+    span:
+      vol: CXXXIII_Verses 61-70
+      start: 0
+      end: 1388
+  1672cf88b9de424c966497363fc62b39:
+    work_id: W4143CB3D
+    span:
+      vol: CXXXIII_Verses 71-80
+      start: 0
+      end: 1843
+  49703ee1cd7b40dc9f23727371017a2c:
+    work_id: W4196C469
+    span:
+      vol: CXXXIII_Verses 81-83
+      start: 0
+      end: 698
+  5051c3988c4b45a6a6a5de3214f9b38c:
+    work_id: W8244F5AF
+    span:
+      vol: CXXXII_Verses 1-10
+      start: 0
+      end: 2196
+  0734e97e700e47fb935ee5a216f06eed:
+    work_id: W220A15EA
+    span:
+      vol: CXXXII_Verses 11-20
+      start: 0
+      end: 1299
+  4ed7846b5a864a3c980ae1087897e4b7:
+    work_id: W30DFFDD4
+    span:
+      vol: CXXXII_Verses 21-30
+      start: 0
+      end: 1926
+  cbc19866883c4b50845e8ed3379844b5:
+    work_id: W30FB21BF
+    span:
+      vol: CXXXII_Verses 31-40
+      start: 0
+      end: 2305
+  58f50a4cf5e24c06878094fe7bd09ee8:
+    work_id: W239D29BC
+    span:
+      vol: CXXXII_Verses 41-50
+      start: 0
+      end: 1065
+  2bbdeda4948748a9bbe492ac4f5996eb:
+    work_id: WA9A9E222
+    span:
+      vol: CXXXII_Verses 51-60
+      start: 0
+      end: 368
+  43cbca885fa04d9689be99cfc085ad74:
+    work_id: WF744449F
+    span:
+      vol: CXXXII_Verses 61-70
+      start: 0
+      end: 394
+  e5e6d842f1dc43e98d158242bdbe3298:
+    work_id: W03C3A553
+    span:
+      vol: CXXXII_Verses 71-80
+      start: 0
+      end: 1088
+  304025daf2f24c5b9dc38f8c5b6458de:
+    work_id: WD0DF848C
+    span:
+      vol: CXXXII_Verses 81-82
+      start: 0
+      end: 434
+  b65234f05de34e288d973596faf201b4:
+    work_id: WA6BC43C6
+    span:
+      vol: CXXXI_Verses 1-10
+      start: 0
+      end: 1851
+  ff6b3f79c86047999059081f131df11e:
+    work_id: W10B42228
+    span:
+      vol: CXXXI_Verses 11-20
+      start: 0
+      end: 881
+  947aef8d4e484ebf8a587863eec8919b:
+    work_id: W2C4AA438
+    span:
+      vol: CXXXI_Verses 21-30
+      start: 0
+      end: 1654
+  1216be60d7b14cada6d4a3a4470f546b:
+    work_id: W397D9540
+    span:
+      vol: CXXXI_Verses 31-40
+      start: 0
+      end: 2207
+  e571610bd2774cc0a583e71432261b3c:
+    work_id: W18147E7E
+    span:
+      vol: CXXXI_Verses 41-50
+      start: 0
+      end: 2215
+  cb0dc6db00a144299d71e7fc57482ade:
+    work_id: WD7956F6D
+    span:
+      vol: CXXXI_Verses 51-60
+      start: 0
+      end: 1942
+  ee7864e5953d4553a17c1d98c43a31db:
+    work_id: WDB0A9955
+    span:
+      vol: CXXX_Verses 1-10
+      start: 0
+      end: 2029
+  123b7b7b3dbe4fcdb6e74e1b78bbb083:
+    work_id: W69E77AB5
+    span:
+      vol: CXXX_Verses 11-20
+      start: 0
+      end: 1622
+  f0b616c510bf4edea2c070f3357b9a36:
+    work_id: W0012A198
+    span:
+      vol: CXXX_Verses 21-30
+      start: 0
+      end: 1735
+  966fe19367c742dbb90f76cc05ceb5ee:
+    work_id: WCE66F665
+    span:
+      vol: CXXX_Verses 31-40
+      start: 0
+      end: 1676
+  291abe6432224ca8ac73e2f6265bc490:
+    work_id: W06F39A4B
+    span:
+      vol: CXXX_Verses 41-50
+      start: 0
+      end: 1219
+  6b79803bd4fc4e6f81798222a29c8474:
+    work_id: W908280C1
+    span:
+      vol: CXXX_Verses 51-52
+      start: 0
+      end: 560
+  b07ab4838159484eb1d24f26e5de5f53:
+    work_id: W8D4371F6
+    span:
+      vol: CXX_Verses 1-10
+      start: 0
+      end: 1686
+  38189d9fff374b209865a84adb063af7:
+    work_id: WD6BBAACB
+    span:
+      vol: CXX_Verses 11-20
+      start: 0
+      end: 1375
+  fe7f09173f8d4833969a4af99aba7c0e:
+    work_id: W973466B6
+    span:
+      vol: CXX_Verses 21-22
+      start: 0
+      end: 380
+  dc6bbca9b37d41b2bc772883a0ba1354:
+    work_id: W9F84080F
+    span:
+      vol: CX_Verses 1-10
+      start: 0
+      end: 1573
+  54e8df713afd44749b8fc16cc03f81c6:
+    work_id: W49F93A9C
+    span:
+      vol: CX_Verses 11-16
+      start: 0
+      end: 1052
+  9ef6f72fc5864f9b847b92bf07ea0fea:
+    work_id: WCA29F7C8
+    span:
+      vol: Colophon
+      start: 0
+      end: 227
+  b3c03be18d204a5e8651075dcd7545f6:
+    work_id: W684D76D7
+    span:
+      vol: Preface
+      start: 0
+      end: 105
+  10549beea94949219b5adc442c489f01:
+    work_id: WFF36C3A4
+    span:
+      vol: Title
+      start: 0
+      end: 13
